@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KlientSocketu</string>
+    <string name="plus">Temperatura +</string>
+    <string name="connect">Connect/Disconnect</string>
+    <string name="zadana">Temperatura zadana</string>
+    <string name="rzeczywista">Temperatura rzeczywista</string>
+    <string name="minus">Temperatura -</string>
+    <string name="temperaturaZadana">24</string>
+</resources>
